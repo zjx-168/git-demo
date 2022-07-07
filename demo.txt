@@ -2,5 +2,5 @@ hello git
 hello world
 hello python
 hello commit master
-hello hot-fix
+hello hot-fix hot-fix
 
