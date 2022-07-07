@@ -4,3 +4,5 @@ hello python
 hello commit master
 hello hot-fix hot-fix
 github test
+git clone
+test
